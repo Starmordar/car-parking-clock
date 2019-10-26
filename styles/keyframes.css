@@ -1,0 +1,8 @@
+@keyframes car-zero-3-out {
+    from {
+        transform: rotate(90deg) translateY(-130%) translateX(-55%);
+    }
+    to {
+        transform: rotate(90deg) translateY(-130%) translateX(-5500%);
+    }
+}

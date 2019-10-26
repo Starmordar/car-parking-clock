@@ -1,0 +1,60 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: black;
+}
+
+.clock-container {
+    position: relative;
+    margin: 5vh 20px 0 200px;
+    height: 90vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+
+.first-number {
+    width: 50%
+}
+
+.second-number {
+    width: 50%;
+}
+
+.car {
+    display: block;
+    width: 30%;
+    z-index: 9999;
+}
+
+.clock-container .car-zero-1 {
+    transform: rotate(0deg) translateY(-25%);
+}
+
+.clock-container .car-zero-2 {
+    transform: rotate(90deg) translateY(120%);
+}
+
+.clock-container .car-zero-3 {
+    transform: rotate(90deg) translateY(-130%) translateX(-55%);
+}
+
+.clock-container .car-zero-4 {
+    transform: rotate(-90deg) translateY(-117%) translateX(0%)
+}
+
+.clock-container .car-zero-5 {
+    transform: rotate(-90deg) translateY(129%) translateX(53%)
+}
+
+.clock-container .car-zero-6 {
+    transform: rotate(0deg) translateY(-52%) translateX(0%);
+}

@@ -1,0 +1,60 @@
+const _constTemplate = {
+    CLASSNAME_CAR_ZERO_1: ".car-zero-1",
+    CLASSNAME_CAR_ZERO_2: ".car-zero-2",
+    CLASSNAME_CAR_ZERO_3: ".car-zero-3",
+    CLASSNAME_CAR_ZERO_4: ".car-zero-4",
+    CLASSNAME_CAR_ZERO_5: ".car-zero-5",
+    CLASSNAME_CAR_ZERO_6: ".car-zero-6",
+
+    CLASSNAME_CAR_ONE_1: ".car-one-1",
+    CLASSNAME_CAR_ONE_2: ".car-one-2",
+
+    CLASSNAME_CAR_TWO_1: ".car-two-1",
+    CLASSNAME_CAR_TWO_2: ".car-two-2",
+    CLASSNAME_CAR_TWO_3: ".car-two-3",
+    CLASSNAME_CAR_TWO_4: ".car-two-4",
+    CLASSNAME_CAR_TWO_5: ".car-two-5",
+
+    CLASSNAME_CAR_THREE_1: ".car-three-1",
+    CLASSNAME_CAR_THREE_2: ".car-three-2",
+    CLASSNAME_CAR_THREE_3: ".car-three-3",
+    CLASSNAME_CAR_THREE_4: ".car-three-4",
+    CLASSNAME_CAR_THREE_5: ".car-three-5",
+
+    CLASSNAME_CAR_FOUR_1: ".car-four-1",
+    CLASSNAME_CAR_FOUR_2: ".car-four-2",
+    CLASSNAME_CAR_FOUR_3: ".car-four-3",
+    CLASSNAME_CAR_FOUR_4: ".car-four-4",
+
+    CLASSNAME_CAR_FIVE_1: ".car-five-1",
+    CLASSNAME_CAR_FIVE_2: ".car-five-2",
+    CLASSNAME_CAR_FIVE_3: ".car-five-3",
+    CLASSNAME_CAR_FIVE_4: ".car-five-4",
+    CLASSNAME_CAR_FIVE_5: ".car-five-5",
+
+    CLASSNAME_CAR_SIX_1: ".car-six-1",
+    CLASSNAME_CAR_SIX_2: ".car-six-2",
+    CLASSNAME_CAR_SIX_3: ".car-six-3",
+    CLASSNAME_CAR_SIX_4: ".car-six-4",
+    CLASSNAME_CAR_SIX_5: ".car-six-5",
+    CLASSNAME_CAR_SIX_6: ".car-six-6",
+
+    CLASSNAME_CAR_SEVEN_1: ".car-seven-1",
+    CLASSNAME_CAR_SEVEN_2: ".car-seven-2",
+    CLASSNAME_CAR_SEVEN_3: ".car-seven-3",
+
+    CLASSNAME_CAR_EIGHT_1: ".car-eight-1",
+    CLASSNAME_CAR_EIGHT_2: ".car-eight-2",
+    CLASSNAME_CAR_EIGHT_3: ".car-eight-3",
+    CLASSNAME_CAR_EIGHT_4: ".car-eight-4",
+    CLASSNAME_CAR_EIGHT_5: ".car-eight-5",
+    CLASSNAME_CAR_EIGHT_6: ".car-eight-6",
+    CLASSNAME_CAR_EIGHT_7: ".car-eight-7",
+
+    CLASSNAME_CAR_NINE_1: ".car-nine-1",
+    CLASSNAME_CAR_NINE_2: ".car-nine-2",
+    CLASSNAME_CAR_NINE_3: ".car-nine-3",
+    CLASSNAME_CAR_NINE_4: ".car-nine-4",
+    CLASSNAME_CAR_NINE_5: ".car-nine-5",
+    CLASSNAME_CAR_NINE_6: ".car-nine-6",
+}
